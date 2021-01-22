@@ -6,6 +6,7 @@
   "author": "Edward <wang.huiyang@outlook.com>",
   "license": "MIT",
   "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
     "prettier": "^2.2.1"
   }
 }
